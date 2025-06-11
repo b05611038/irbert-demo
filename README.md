@@ -28,14 +28,14 @@ torch.Size([2, 506, 768])
 ```
 
 ## 🔧 Pretraining Example
-[`pretrain_IRBERT_via_MTPrediction_and_custom_dataset.py`](./pretrain_IRBERT_via_MTPrediction_and_custom_dataset.py)
-Demonstrates how to pretrain IR-BERT using masked spectrum modeling with synthetic data and a custom loss function.
+[`pretrain_IRBERT_via_MTPrediction_and_custom_dataset.py`](./pretrain_IRBERT_via_MaskedSM_and_custom_dataset.py)  
+Demonstrates how to pretrain IR-BERT using masked spectrum modeling with synthetic data and a custom loss function.  
 
 ## 🔧 Finetuning Example
 [`finetune_IRBERT_via_MTPrediction_and_custom_dataset.py`](./finetune_IRBERT_via_MTPrediction_and_custom_dataset.py)  
 Demonstrates how to finetune IR-BERT on synthetic multi-task datasets using a custom loss, metric function, and model loading interface.
 
 ## 📄 Citation & Publication Status
-IR-BERT is currently under review. Processor architecture and spectral tokenization details are withheld in this public demo.
-For academic collaboration or inquiries, please contact the author.
+IR-BERT is currently under review. Processor architecture and spectral tokenization details are withheld in this public demo.  
+For academic collaboration or inquiries, please contact the author.  
 
