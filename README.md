@@ -39,3 +39,7 @@ Demonstrates how to finetune IR-BERT on synthetic multi-task datasets using a cu
 IR-BERT is currently under review. Processor architecture and spectral tokenization details are withheld in this public demo.  
 For academic collaboration or inquiries, please contact the author.  
 
+## 📄 License
+
+This demo is released under the [CC BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).  
+You may view and share this code, but may not modify or reuse it for commercial purposes.
